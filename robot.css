@@ -1,0 +1,15 @@
+input {
+     display:block;
+     margin-top:20px;
+}
+p {
+    border:1px solid;
+    display:inline-block;
+}
+
+span {
+    font-size:30px;
+}
+button {
+    margin-top: 20px;
+}
